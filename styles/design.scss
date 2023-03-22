@@ -1,0 +1,13 @@
+$mainColor:rgb(255, 121, 159);
+@mixin title {
+    font-size:4rem;
+}
+
+body{
+    background-color:$mainColor;
+    h1 {}
+    p {}
+    ul{
+        li{}
+    }
+}
